@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primaryColor">#3F51B5</color> <!-- Bleu indigo -->
+    <color name="primaryVariant">#303F9F</color> <!-- Indigo plus foncé -->
+    <color name="secondaryColor">#FF9800</color> <!-- Orange vif -->
+    <color name="backgroundColor">#FAFAFA</color> <!-- Gris très clair -->
+    <!--  Couleurs pour les options  -->
+    <color name="optionBackground">#F0F0F0</color> <!-- Gris clair -->
+    <color name="optionSelectedBackground">#C5CAE9</color> <!-- Indigo clair -->
+    <!--  Couleurs pour le texte  -->
+    <color name="textColorPrimary">#212121</color> <!-- Noir légèrement atténué -->
+    <color name="textColorSecondary">#616161</color> <!-- Gris foncé -->
+    <!--  Couleurs ajoutées pour éviter les erreurs dans activity_main.xml  -->
+    <color name="gray">#9E9E9E</color> <!-- Gris moyen -->
+    <!--  pour textColorHint et icônes  -->
+    <color name="blue_500">#2196F3</color> <!-- Bleu vif -->
+    <!--  pour lien Register  -->
+    <color name="purple_500">#673AB7</color> <!-- Violet profond -->
+
+    <color name="purple_700">#582AB7</color> <!-- Violet plus  profond -->
+
+    <!--  pour background du bouton  -->
+    <color name="buttonBackground">#FF5722</color> <!-- Orange profond -->
+
+    <color name="colorPrimary">#212121</color>
+
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>

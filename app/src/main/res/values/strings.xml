@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Monument_Quiz</string>
+    <string name="app_logo_desc">logo</string>
+    <string name="register_prompt">Don\'t have an account? Register here</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="question_image">Question image</string>
+    <string name="loading_question">Loading question...</string>
+    <string name="option_a">Option A</string>
+    <string name="option_b">Option B</string>
+    <string name="option_c">Option C</string>
+    <string name="option_d">Option D</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="result_text">"Your score is : "</string>
+    <string name="monumentquizzer">MonumentQuizzer</string>
+    <string name="votre_score">Votre score :</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="quitter">Quitter</string>
+    <string name="quiz_title">Monuments quizzer\n</string>
+    <string name="question_image_description">A monument \n</string>
+    <string name="next_button">Next\n</string>
+    <string name="monument_quiz_logo">Monument Quiz Logo</string>
+</resources>
